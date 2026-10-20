@@ -1,0 +1,11 @@
+{
+  "destination": "Paris",
+  "start_date": "2026-11-01",
+  "end_date": "2026-11-03",
+  "group_size": 2,
+  "budget_level": "medium",
+  "travel_style": "cultural",
+  "pace": "balanced",
+  "interests": ["food", "history"],
+  "dietary_prefs": []
+}
